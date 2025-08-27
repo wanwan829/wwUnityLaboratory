@@ -1,8 +1,11 @@
 
 
 This is the implementation of the JPS pathfinding algorithm within Unity.
+
 1.Operation demonstration
+
 1.1
+
 You can freely move the starting point and the ending point.
 ![drag1](https://github.com/user-attachments/assets/eda409f5-283d-45a8-ad23-3861bd44944d)
 1.2
